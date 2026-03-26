@@ -1,2 +1,2 @@
 # Engenharia_De_Prompt_E_Aplicacao_Em_Ia
-Atividade de engenharia de prompt - Faculdade UDF
+Atividades de engenharia de prompt e aplicação em IA - Faculdade UDF
